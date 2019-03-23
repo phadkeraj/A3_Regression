@@ -2,7 +2,7 @@ This Project is based on Prediction of Interest Rates of Loans from the Lending 
 
 Steps to Regenerate the Project:
 1. Clone the Project into any directory of your choice
-2. Create a Data Folder inside the project, and a sub-folders namely Mice Data inside the Data folder
+2. Create a sub-folder called "Mice Data" inside the Data folder
 3. Download the Data from https://www.kaggle.com/wendykan/lending-club-loan-data and place it inside the "Original Data" in the Data folder
 4. Check Folders Under the Code Folder
 5. Understanding the Data: Notebook to Understand the Data more prominently
