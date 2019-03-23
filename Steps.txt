@@ -1,0 +1,10 @@
+1. corr above 0
+2. VIF/REGULAZATION (LASSO)
+2. OLS 
+
+Steps
+1. Decide columns which we want
+2. Fill in missing numeric values (kNN, MICE)
+3. Categorical to Numeric 
+4. Tawde ( LassoCV)
+5. Raj (OLS,VIF)
